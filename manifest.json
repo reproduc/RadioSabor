@@ -25,8 +25,8 @@
         }
 	],
 	"start_url": "./?mode=pwa",
-	"theme_color": "#ff8000",
-	"background_color": "#ff8000",
+	"theme_color": "#00b6aa",
+	"background_color": "#00b6aa",
 	"orientation": "portrait",
 	"display": "fullscreen",
 	"display_override": [
